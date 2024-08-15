@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img  align="left" src="https://github-readme-stats.vercel.app/api?username=vefxonadiradze&show_icons=true&locale=en" alt="vefxonadiradze" /></p>
 
-<p><img marginLeft="100" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vefxonadiradze&" alt="vefxonadiradze" /></p>
+<p><img marginLeft="1020" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=vefxonadiradze&" alt="vefxonadiradze" /></p>
