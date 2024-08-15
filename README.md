@@ -24,7 +24,6 @@
           alt="vefxonadiradze"
         />
       </p>
-
       <p>
         &nbsp;<img
           align="center"
@@ -32,7 +31,6 @@
           alt="vefxonadiradze"
         />
       </p>
-
       <p>
         <img
           align="center"
